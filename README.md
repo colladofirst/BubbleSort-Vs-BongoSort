@@ -55,11 +55,3 @@ This file contains all measured data and can be used for:
 - Animation and visualization tools (e.g. Manim)
 
 ---
-
-## 🛠️ Compilation and execution
-
-Example using `g++`:
-
-```bash
-g++ -std=c++17 main.cpp -o sorting_experiment
-./sorting_experiment
